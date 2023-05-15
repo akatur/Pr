@@ -1,0 +1,34 @@
+.prepodavatel_container{
+    padding-top: 40px;
+}
+
+.prepod_block{
+
+    background-color:#E5E5E5 ;
+    width: 1300px;
+    height: 600px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
+
+.prep_text{
+    padding-top: 30px;
+    height: 500px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.kob_img{
+    margin: 0 auto;
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    width: 400px;
+    border-radius: 30px ;
+    height: 500px;
+}
+p{
+    font-size: 17px;
+}
